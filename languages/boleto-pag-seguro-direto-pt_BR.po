@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boleto Pag Seguro Direto\n"
+"POT-Creation-Date: 2020-04-03 19:44-0300\n"
+"PO-Revision-Date: 2020-04-03 19:47-0300\n"
+"Last-Translator: \n"
+"Language-Team: Clodoaldo Xavier Gomes\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:241
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Voce não tem permissão suficiente para acessar esta página."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:256
+msgid "System Settings"
+msgstr "Configurações do Sistema"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:262
+msgid "System"
+msgstr "Sistema"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:268
+msgid "PHP Version"
+msgstr "Sua versão do PHP"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:274
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP "
+"5.2)"
+msgstr ""
+"(ATENÇÃO: Este plugin pode não funcionar corretamente com versões anteriores "
+"ao MySQL 5.2)"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:282
+msgid "MySQL Version"
+msgstr "MySQL Versão"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:288
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+"(ATENÇÃO: Este plugin pode não funcionar corretamente com versões anteriores "
+"ao MySQL 5.0)"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:297
+msgid "Settings"
+msgstr "Configurações"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:332
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:342
+msgid ""
+"<h3>Reset Pages: If the new version did not work then click the Reset Pages "
+"button.</h3>"
+msgstr ""
+"Redefinir páginas: se a nova versão não funcionar, clique no botão Redefinir "
+"páginas"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:343
+msgid ""
+"The pages containing the Data Form, Confirmation Form and Ticket Generation "
+"Page will be re-created. You`ll need to change the menus on your site so "
+"your customers can find them."
+msgstr ""
+"As páginas contendo o Formulário de dados, Formulário de Confirmação e "
+"Página de Geração do Boleto serão recriadas. Você precisará alterar os menus "
+"do seu site para que os seus clientes possam encontra-las."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:347
+msgid "Reset Pages"
+msgstr "Redefinir Páginas"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:374
+msgid "Instructions"
+msgstr "Instruções"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:379
+#: boleto/pages/PagamentoBoleto.php:16
+msgid "This system does not work in sandbox "
+msgstr "Este sistema não funciona no Sandbox "
+
+#: BoletoPagSeguroDireto_OptionsManager.php:380
+#: boleto/pages/PagamentoBoleto.php:17
+msgid ""
+"Go to the Wordpress Admin Panel; Plugins; Boleto Pag Seguro Seguro and "
+"change preferences."
+msgstr ""
+"Vá para o painel Administrativo do Wordpress; Plugins, Boleto Pag Seguro "
+"Direto e altere as preferências."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:381
+#: boleto/pages/PagamentoBoleto.php:18
+msgid "Needing a little help? I can help."
+msgstr "Precisando de uma ajudinha? Talvez eu possa ajudar."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:384
+#: boleto/pages/PagamentoBoleto.php:20
+msgid "SETTINGS"
+msgstr "CONFIGURAÇÕES"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:385
+#: boleto/pages/PagamentoBoleto.php:21
+msgid "Take a quiz generating a donation for this plugin and get free support."
+msgstr ""
+"Faça um teste gerando um boleto de doação para este plugin e receba suporte "
+"grátis."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:387
+#: boleto/pages/PagamentoBoleto.php:23
+msgid "Click here to help!"
+msgstr "Clique aqui para obter ajuda!"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:388
+msgid ""
+"Generates the Boleto Pag Seguro Direto without typing the password. "
+"Documents in sequential order from 1 to 12."
+msgstr ""
+"Gere boletos com o Boleto Pag Seguro Direto sem necessidade de digitar a "
+"senha. Boletos em ordem sequencial de 1 a 12."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:389
+msgid "Version 0.5+ update settings!"
+msgstr "Versão 0.5+ Altere as Configurações!"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:408
+msgid "Thank you very much for your donation."
+msgstr "Obrigado por sua doação."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:413
+msgid "<h3>Shortcodes</h3>"
+msgstr "<h3>Shortcodes</h3>"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:417
+msgid ""
+"We`ve created three new pages for you. Check the list \"Pages\" and, if "
+"you \n"
+"          wish, leave it available to your customers. If you need to display "
+"the \n"
+"          form on other pages use this shortcodes."
+msgstr ""
+"Criamos três novas páginas para você. Verifique na lista de \"Páginas\" e, "
+"se você \n"
+"desejar, deixe-a disponível para seus clientes. Se você precisar exibir o \n"
+"formulário em outras páginas use este shortcode."
+
+#: BoletoPagSeguroDireto_OptionsManager.php:424
+msgid "For the first page"
+msgstr "Para a primeira página"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:427
+msgid "To the second page"
+msgstr "Para a segunda página"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:431
+msgid "For the third page"
+msgstr "Para a terceira página"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:435
+msgid "My Email Address: clodoaldoevangelista@gmail.com"
+msgstr "Meu endereço de email: clodoaldoevangelista@gmail.com"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:490
+msgid "true"
+msgstr "verdadeiro"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:492
+msgid "false"
+msgstr "falso"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:494
+msgid "Administrator"
+msgstr "Administrador"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:496
+msgid "Editor"
+msgstr "Editor"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:498
+msgid "Author"
+msgstr "Autor"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:500
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:502
+msgid "Subscriber"
+msgstr "Assinante"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:504
+msgid "Anyone"
+msgstr "Qualquer um"
+
+#: BoletoPagSeguroDireto_Plugin.php:12
+msgid "Your email acount Pag Seguro"
+msgstr "Seu email na conta Pag Seguro"
+
+#: BoletoPagSeguroDireto_Plugin.php:13
+msgid "Your Token Pag Seguro"
+msgstr "Seu Token na conta Pag Seguro"
+
+#: BoletoPagSeguroDireto_Plugin.php:14
+msgid "Name company / Your Name"
+msgstr "O nome do seu negócio ou seu nome comercial"
+
+#: BoletoPagSeguroDireto_Plugin.php:15
+msgid "Environment"
+msgstr "Ambiente"
+
+#: BoletoPagSeguroDireto_Plugin.php:16
+msgid "fill in address automatically? Disable if the post office fails ..."
+msgstr ""
+"Preencher o endereço automaticamente através do CEP? Desative  se os "
+"correios estiverem lentos demais..."
+
+#: BoletoPagSeguroDireto_Plugin.php:18
+msgid "Costs for the customer? If yes, the client will pay R$ 1.00"
+msgstr "Custos para o cliente? Se sim o cliente pagará R$ 1,00 de custos"
+
+#: BoletoPagSeguroDireto_Plugin.php:19
+msgid "I want to receive news in my email"
+msgstr "Eu quero receber novidades em meu email"
+
+#: boleto-pag-seguro-direto.php:68
+msgid ""
+"Error: plugin \"Boleto Pag Seguro Direto\" requires a newer version of PHP "
+"to be running."
+msgstr ""
+"Erro: plugin \"Boleto Pag Seguro Direto\" requer uma nova verdão de PHP para "
+"rodar."
+
+#: boleto-pag-seguro-direto.php:70
+msgid "Minimal version of PHP required: "
+msgstr "Versão mínima do PHP requerida "
+
+#: boleto-pag-seguro-direto.php:72
+msgid "Your server's PHP version: "
+msgstr "Sua versão do PHP "
+
+#: boleto/pages/PagamentoBoleto.php:24
+msgid ""
+"Generates the Boleto Pag Seguro Direto without typing the password. "
+"Documents in sequential order from 1 to 12. Version 0.5+ update settings"
+msgstr ""
+"Gere boletos com o Boletos Pag Seguro Direto sem necessidade de digitar a "
+"senha. Boletos em ordem sequencial de 1 a 12. Versão 0.5 + altere as "
+"configurações"
+
+#: boleto/pages/PagamentoBoleto.php:50
+msgid "Document "
+msgstr "Documento "
+
+#: boleto/pages/PagamentoBoleto.php:86
+msgid "Document n# "
+msgstr "Documento nº "
+
+#: boleto/pages/PagamentoBoleto.php:87
+msgid "Click here to print the document."
+msgstr "Clique aqui para imprimir o documento."
+
+#: boleto/pages/PagamentoBoleto.php:88
+msgid "Bar Code: "
+msgstr "Código de barras: "
+
+#: boleto/pages/PagamentoBoleto.php:95
+msgid "You will receive an email with transaction data. "
+msgstr "Você receberá um email com dados de transação. "
+
+#: boleto/pages/PagamentoBoleto.php:108
+msgid ""
+"It looks like you already generated this document (s). Check your email to "
+"confirm. If I`m wrong you should go back to the form and start over. Excuse "
+"me."
+msgstr ""
+"Parece que você já gerou este (s) documento (s). Verifique seu email para "
+"confirmar. Se eu estiver errado, você deve voltar ao formulário e começar de "
+"novo. Desculpe."
+
+#: boleto/pages/consulta-cep.php:11
+msgid "Back and correct Zip Code"
+msgstr "Volte e corrija o CEP"
+
+#: boleto/pages/consulta-cep.php:67
+msgid "Please enter the Address valid! 5 to 130 alphanumeric characters"
+msgstr ""
+"Por favor digite um Endereço válido! Use de 5 a 130 caracteres alfanuméricos"
+
+#: boleto/pages/consulta-cep.php:71
+msgid "Address"
+msgstr "Endereço"
+
+#: boleto/pages/consulta-cep.php:78
+msgid "Please enter the Number! 1 to 10 alphanumeric characters."
+msgstr ""
+"Por favor digite um Número válido! Use de 1 a 10 caracteres alfanuméricos."
+
+#: boleto/pages/consulta-cep.php:82
+msgid "Number"
+msgstr "Número"
+
+#: boleto/pages/consulta-cep.php:88
+msgid "Complement"
+msgstr "Complemento"
+
+#: boleto/pages/consulta-cep.php:94
+msgid "Please enter the neighborhood! 5 to 60 alphanumeric characters."
+msgstr ""
+"Por favor digite um Bairro válido! Use de 5 a 60 caracteres alfanuméricos."
+
+#: boleto/pages/consulta-cep.php:98
+msgid "Neighborhood"
+msgstr "Bairro"
+
+#: boleto/pages/consulta-cep.php:103 boleto/pages/form-dados-do-boleto.php:34
+msgid "Zip Code"
+msgstr "CEP"
+
+#: boleto/pages/consulta-cep.php:109
+msgid "City"
+msgstr "Cidade"
+
+#: boleto/pages/consulta-cep.php:115
+msgid "State"
+msgstr "Estado"
+
+#: boleto/pages/dados-do-boleto.php:8
+#: boleto/pages/form-dados-do-boleto-confirma.php:12
+msgid "Sorry, your session has expired. Please go back and try again."
+msgstr "Desculpe-me, sua sessão expirou. Por favor volte e tente novamente."
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:61
+#: boleto/pages/form-dados-do-boleto.php:14
+msgid "Value"
+msgstr "Valor"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:67
+#: boleto/pages/form-dados-do-boleto.php:20
+msgid "Due: 1 to 30 days. Ex: 20-12-2018"
+msgstr "Vencimento: 1 a 30 dias. Ex.: 20-12-2018"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:73
+#: boleto/pages/form-dados-do-boleto.php:26
+msgid "Name"
+msgstr "Nome"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:77
+#: boleto/pages/form-dados-do-boleto.php:30
+msgid "Email"
+msgstr "E-mail"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:85
+#: boleto/pages/form-dados-do-boleto.php:38
+msgid "Cell phone"
+msgstr "Telefone Celular"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:89
+#: boleto/pages/form-dados-do-boleto.php:42
+msgid "CPF"
+msgstr "CPF"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:93
+msgid "Number of installments"
+msgstr "Número de parcelas"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:112
+#: boleto/pages/form-dados-do-boleto.php:64
+msgid "Continue"
+msgstr "Continuar"
+
+#: boleto/pages/form-dados-do-boleto-confirma.php:115
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Back&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+
+#: boleto/pages/form-dados-do-boleto.php:46
+msgid ""
+"To generate a card with monthly and sequential maturities, report the number "
+"of installments; or leave only 1"
+msgstr ""
+"Para gerar um carnê com vencimentos mensais sequenciais, informe o número de "
+"parcelas; ou deixe apenas 1"
+
+#: boleto/pages/form-dados-do-boleto.php:47
+msgid "Up to 12"
+msgstr "Até 12"
+
+#: boleto/pages/functions.php:120
+msgid "Please enter the Name! 10 to 50 alphabetic characters."
+msgstr "Por favor digite um Nome válido! Use de 10 a 50 caracteres."
+
+#: boleto/pages/functions.php:121
+msgid "Back and correct Name"
+msgstr "Volte e corrija o nome"
+
+#: boleto/pages/functions.php:127 boleto/pages/functions.php:131
+msgid "Back and correct Email"
+msgstr "Volte e corrija o email"
+
+#: boleto/pages/functions.php:139
+msgid "Back and correct Cell Phone - Example (22)44445-4444"
+msgstr "Volte e corrija o telefone celular - Exemplo (22)44445-4444"
+
+#: boleto/pages/functions.php:145
+msgid "Back and correct Adress. Minimum 10 and Maximum 140 char."
+msgstr "Volte e corrija o Endereço. Mínimo de 10 e o máximo de 140 caracteres."
+
+#: boleto/pages/functions.php:154
+msgid "Back and correct Adress Number. Minimum 1 and Maximum 20 char."
+msgstr "Volte e corrija o Numero. Mínimo de 10e o máximo de 20 caracteres."
+
+#: boleto/pages/functions.php:164
+msgid "Back and correct Adress Complement. Maximum 20 char."
+msgstr "Volte e corrija o Complemento do Endereço. Máximo de 20 caracteres."
+
+#: boleto/pages/functions.php:173
+msgid "Back and correct Neighborhood! 5 to 60 alphanumeric characters.."
+msgstr ""
+"Por favor digite um Bairro válido! Use de 5 a 60 caracteres alfanuméricos.."
+
+#: boleto/pages/functions.php:199 boleto/pages/functions.php:204
+msgid "Back and correct the CPF"
+msgstr "Volte e corrija o CPF"
+
+#: boleto/pages/functions.php:211
+msgid "Back and correct the value. Minimum value 11,00"
+msgstr "Volte e corrija o valor. Mínmo R$ 11,00"
+
+#: boleto/pages/functions.php:219
+msgid "Back and correct the number of installments; minimum 1 and maximum 12"
+msgstr "Volte e corrija o número de parcelas; mínimo é 1 o máximo são 12"
+
+#: boleto/pages/functions.php:230
+msgid ""
+"Back and correct due date (dd-mm-yyyy). The due date should be from "
+"tomorrow. The due date is shorter than tomorrow!"
+msgstr ""
+"Volte e corrija a data de vencimento (dd-mm-yyyy). A data de vencimento deve "
+"ser a partir de amanhã. A data de vencimento está menor do que amanhã!"
+
+#: boleto/pages/functions.php:238
+msgid "The sum was wrong! Please go back and try again."
+msgstr ""
+"Desculpe-me, a sua soma está errada! Por favor volte e tente novamente."
+
+#: boleto/pages/functions.php:248
+msgid ""
+"An error has occurred while processing your payment, please review your data "
+"and try again. Or contact us for assistance."
+msgstr ""
+"Ocorreu um erro no seu pagamento, revise sua dados e tente novamente. Ou "
+"entre em contato conosco para obter ajuda."
+
+#: boleto/pages/functions.php:249 boleto/pages/functions.php:250
+#: boleto/pages/functions.php:251 boleto/pages/functions.php:252
+#: boleto/pages/functions.php:253 boleto/pages/functions.php:254
+msgid ""
+"Please enter with a valid phone number with DDD. Example: (11) 44445-4444."
+msgstr ""
+"Por favor, entre com o telefone celular válido com DDD. Exemplo "
+"(11)44445-4444."
+
+#: boleto/pages/functions.php:255 boleto/pages/functions.php:256
+#: boleto/pages/functions.php:257 boleto/pages/functions.php:258
+#: boleto/pages/functions.php:259
+msgid "Please enter with a valid zip code number."
+msgstr "Por favor entre com um cep válido."
+
+#: boleto/pages/functions.php:260
+msgid "Please enter with a valid CPF number."
+msgstr "Por favor entre com um cpf válido."
+
+#: boleto/pages/functions.php:261
+msgid "No"
+msgstr "Não"
+
+#: boleto/pages/functions.php:262
+msgid "Please select a bank to make payment by bank transfer."
+msgstr "Por favor, selecione o banco para fazer o pagamento ou transferência."
+
+#: boleto/pages/functions.php:263
+msgid "Credit card holder CPF is required."
+msgstr "É necessário o CPF do titular do cartão de crédito."
+
+#: boleto/pages/functions.php:264
+msgid "Credit card holder birthdate is required."
+msgstr "A data de nascimento do titular do cartão de crédito é obrigatória."
+
+#: boleto/pages/functions.php:265
+msgid "Credit card holder name is required."
+msgstr "O nome do titular do cartão de crédito é obrigatório."
+
+#: boleto/pages/functions.php:266 boleto/pages/functions.php:267
+msgid "Credit card holder phone is required."
+msgstr "Telefone de titular do cartão de crédito é necessário."
+
+#: boleto/pages/functions.php:268 boleto/pages/functions.php:269
+msgid ""
+"The address complement is too long, it cannot be more than 40 characters."
+msgstr ""
+"O complemento de endereço é muito longo, não pode ter mais de 40 caracteres."
+
+#: boleto/pages/functions.php:270
+msgid "<strong>Neighborhood</strong> is a required field."
+msgstr "O <strong> Bairro </strong> é um campo obrigatório."
+
+#: boleto/pages/functions.php:271
+msgid "Credit card holder CPF invalid."
+msgstr "CPF do titular do cartão de crédito inválido."
+
+#: boleto/pages/functions.php:272
+msgid ""
+"Invalid email domain. You must use an email @sandbox.pagseguro.com.br while "
+"you are using the PagSeguro Sandbox."
+msgstr ""
+"Domínio de email inválido. Você deve usar um email @ sandbox.pagseguro.com."
+"br enquanto estiver usando o PagSeguro Sandbox."
+
+#: boleto/pages/functions.php:274
+msgid "The customer email can not be the same as the PagSeguro account owner."
+msgstr ""
+"O email do cliente não pode ser o mesmo do proprietário da conta do "
+"PagSeguro."
+
+#: boleto/reset/all-pages.php:8
+msgid "First page reset successfully."
+msgstr "Primeira pagina redefinida com sucesso."
+
+#: boleto/reset/all-pages.php:14
+msgid "Second page successfully redefined."
+msgstr "Segunda pagina redefinida com sucesso."
+
+#: boleto/reset/all-pages.php:20
+msgid "Third page successfully redefined."
+msgstr "Terceira pagina redefinida com sucesso."
+
+#~ msgid ""
+#~ "Also get the Boleto Paget Plug-in Plug-in Plug for just $ 39. Contact us."
+#~ "</br>"
+#~ msgstr ""
+#~ "Adquira também o Plugin Boleto Pag Seguro em Lote por apenas U$ 39. Entre "
+#~ "em contato."
+
+#~ msgid ""
+#~ "You will generate multiple documents at one time by importing csv file."
+#~ msgstr ""
+#~ "Você pderá gerar multiplos boletos de uma só vez importando um arquivo "
+#~ "csv."
+
+#~ msgid ""
+#~ "Excellent for those who need to generate many tickets, such as "
+#~ "condominiums, schools, associations, etc.</br>"
+#~ msgstr ""
+#~ "Excelente para pessoas que precisam gerar muitos boletos, como por "
+#~ "exemplo, condomínios, escolas, associações, etc.</br>"
+
+#~ msgid "News"
+#~ msgstr "Novidades"
+
+#~ msgid ""
+#~ "I`ll be so happy if you send me a donation over $ 30 that I will repay "
+#~ "with the Direct Batch Direct plugin.</br>"
+#~ msgstr ""
+#~ "Ficarei tão feliz se você me enviar uma doação de mais de U$ 30 que eu "
+#~ "retribuirei enviando para você o plugin Boleto Direto Pag Seguro em Lote. "
+#~ "</ Br>"
+
+#~ msgid "Back and correct Adress Number. Minimum 5 and Maximum 60 char."
+#~ msgstr ""
+#~ "Volte e corrija o Número do Endereço. Mínimo de 1 e o máximo de 5 "
+#~ "caracteres."
+
+#~ msgid ""
+#~ "There was an error while issuing the ticket. Please return to correct or "
+#~ "contact us."
+#~ msgstr ""
+#~ "Ocorreu um erro ao emitir o boleto. Por favor, retorne para corrigir ou "
+#~ "entre em contato conosco."
+
+#~ msgid "Back and correct the value"
+#~ msgstr "Volte e corrija o valor"
+
+#~ msgid "Back and correct due date (dd-mm-yyyy)"
+#~ msgstr "Volte e corrija a data (dd-mm-aaaa)"
+
+#~ msgid "Back and correct the number of installments; or leave only 1"
+#~ msgstr "Volte e corrija o número de parcelas; ou deixe somente 1"
+
+#~ msgid "Costs for the customer?"
+#~ msgstr "Custos para o cliente? Se sim o cliente pagará R$ 1,00 de custos"
+
+#~ msgid "Take over the costs?"
+#~ msgstr "Deseja assumir os custos?"

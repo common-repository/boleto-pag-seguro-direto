@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boleto Pag Seguro Direto 0.4\n"
+"POT-Creation-Date: 2018-12-07 20:50-0200\n"
+"PO-Revision-Date: 2018-12-07 20:52-0200\n"
+"Last-Translator: \n"
+"Language-Team: clodoaldoevangelista@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BoletoPagSeguroDireto_OptionsManager.php:266
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:284
+msgid "System Settings"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:290
+msgid "System"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:296
+msgid "PHP Version"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:302
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP "
+"5.2)"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:310
+msgid "MySQL Version"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:316
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:325
+msgid "Settings"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:357
+msgid "Save Changes"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:365
+msgid "News"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:368
+msgid ""
+"I`ll be so happy if you send me a donation over $ 30 that I will repay with "
+"the Direct Batch Direct plugin.</br>"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:370
+msgid "You will generate multiple documents at one time by importing csv file."
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:371
+msgid ""
+"Excellent for those who need to generate many tickets, such as condominiums, "
+"schools, associations, etc.</br>"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:381
+msgid "Thank you very much for your donation."
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:386
+msgid "Instructions"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:390
+msgid ""
+"A new page has been added. Find it in the \"Pages\" list and, if you \n"
+"          wish, leave it available to your customers. If you need to display "
+"the \n"
+"          form on other pages use this shortcode."
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:401
+msgid "My Email Address: clodoaldoevangelista@gmail.com"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:461
+msgid "true"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:463
+msgid "false"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:466
+msgid "Administrator"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:468
+msgid "Editor"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:470
+msgid "Author"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:472
+msgid "Contributor"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:474
+msgid "Subscriber"
+msgstr ""
+
+#: BoletoPagSeguroDireto_OptionsManager.php:476
+msgid "Anyone"
+msgstr ""
+
+#: BoletoPagSeguroDireto_Plugin.php:16
+msgid "Your email acount Pag Seguro"
+msgstr ""
+
+#: BoletoPagSeguroDireto_Plugin.php:17
+msgid "Your Token Pag Seguro"
+msgstr ""
+
+#: BoletoPagSeguroDireto_Plugin.php:18
+msgid "Name company / Your Name"
+msgstr ""
+
+#: BoletoPagSeguroDireto_Plugin.php:19
+msgid "Environment"
+msgstr ""
+
+#: BoletoPagSeguroDireto_Plugin.php:20
+msgid "Costs for the customer? If yes, the client will pay R$ 1.00"
+msgstr ""
+
+#: boleto-pag-seguro-direto.php:53
+msgid ""
+"Error: plugin \"Boleto Pag Seguro Direto\" requires a newer version of PHP "
+"to be running."
+msgstr ""
+
+#: boleto-pag-seguro-direto.php:54
+msgid "Minimal version of PHP required: "
+msgstr ""
+
+#: boleto-pag-seguro-direto.php:55
+msgid "Your server's PHP version: "
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:25
+msgid "This system does not work in sandbox "
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:26
+msgid ""
+"Go to the Wordpress Admin Panel; Plugins; Boleto Pag Seguro Seguro and "
+"change preferences."
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:70
+msgid "Document n# "
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:71
+msgid "Click here to print the document."
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:72
+msgid "Bar Code: "
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:79
+msgid "You will receive an email with transaction data. "
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:83
+msgid ""
+"There was an error while issuing the ticket. Please return to correct or "
+"contact us."
+msgstr ""
+
+#: boleto/pages/PagamentoBoleto.php:101
+msgid ""
+"It looks like you already generated this document (s). Check your email to "
+"confirm. If I`m wrong you should go back to the form and start over. Excuse "
+"me."
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:9
+msgid "Sorry, your session has expired. Please go back and try again."
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:20
+msgid "The sum was wrong! Please go back and try again."
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:27
+msgid "Back and correct Name"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:36
+msgid "Back and correct Email"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:43
+msgid "Back and correct Zip Code"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:50
+msgid "Back and correct Cell Phone"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:58 boleto/pages/dados-do-boleto.php:64
+msgid "Back and correct the CPF"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:77
+msgid "Back and correct the value"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:87
+msgid "Back and correct due date (dd-mm-yyyy)"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:105
+msgid "Back and correct the value. Minimum value 11,00"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:113 boleto/pages/dados-do-boleto.php:119
+msgid "Back and correct the number of installments; or leave only 1"
+msgstr ""
+
+#: boleto/pages/dados-do-boleto.php:124
+msgid "Back and correct the number of installments; maximum 6"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:17
+msgid "Value"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:23
+msgid "Due: 1 to 30 days. Ex: 20-12-2018"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:29
+msgid "Name"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:33
+msgid "Email"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:37
+msgid "Zip Code"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:41
+msgid "Cell phone"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:45
+msgid "CPF"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:49
+msgid ""
+"To generate a card with monthly and sequential maturities, report the number "
+"of installments; or leave only 1"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:50
+msgid "Up to 6"
+msgstr ""
+
+#: boleto/pages/form-dados-do-boleto.php:68
+msgid "Continue"
+msgstr ""
